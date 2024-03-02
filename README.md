@@ -71,7 +71,7 @@ func postAlbums(c *gin.Context) {
 }
 ```
 
-#### mutliple lines with `\`
+#### mutliple lines in bash with `\`
 ```bash
 curl http://localhost:8080/albums \
     --include \
